@@ -56,11 +56,11 @@ Below is an example of the Visual Basic user interface:
 ### **LED Control Result**  
 Below is an example of the LED output when controlled via Visual Basic:
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/user-attachments/assets/5546adc9-5390-4529-91dc-65c828e0d11c" alt="LED Control Result" width="600">
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/user-attachments/assets/40c03c4a-89a6-40ca-994e-894bee1fbc17" alt="LED Control Result" width="600">
 </div>
 
