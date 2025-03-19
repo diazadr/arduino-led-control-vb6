@@ -48,12 +48,21 @@ To enable communication between Visual Basic and Arduino, configure MSComm with 
 
 ### **Visual Basic Form Interface**  
 Below is an example of the Visual Basic user interface:
-<img src="https://github.com/user-attachments/assets/3477a17e-f892-4741-8e43-3213e667f368" alt="Form Interface Screenshot" width="600">
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3477a17e-f892-4741-8e43-3213e667f368" alt="Form Interface Screenshot" width="600">
+</div>
 
 ### **LED Control Result**  
 Below is an example of the LED output when controlled via Visual Basic:
-<img src="https://github.com/user-attachments/assets/5546adc9-5390-4529-91dc-65c828e0d11c" alt="LED Control Result" width="600">
-<img src="https://github.com/user-attachments/assets/40c03c4a-89a6-40ca-994e-894bee1fbc17" alt="LED Control Result" width="600">
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5546adc9-5390-4529-91dc-65c828e0d11c" alt="LED Control Result" width="600">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/40c03c4a-89a6-40ca-994e-894bee1fbc17" alt="LED Control Result" width="600">
+</div>
 
 ### **Port Configuration in Visual Basic**
 Ensure that the communication port between Arduino and Visual Basic matches. To find the Arduino port:
